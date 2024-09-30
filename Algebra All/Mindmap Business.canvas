@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4db0be708ba278ce","type":"text","text":"Business\n","x":-20,"y":1,"width":250,"height":60},
+		{"id":"c02d803015df52d7","type":"file","file":"International Business/U1 The Challenging contrect of international business.png","x":260,"y":100,"width":91,"height":400},
+		{"id":"b2e466afda9b7c47","type":"file","file":"International Business/U2 International Trade and INvestment.png","x":360,"y":100,"width":218,"height":4849},
+		{"id":"ef9ea691ebeed2af","type":"file","file":"International Business/U10 Organizational Design and Control.png","x":600,"y":100,"width":160,"height":1872}
+	],
+	"edges":[]
+}
